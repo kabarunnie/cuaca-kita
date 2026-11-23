@@ -1,0 +1,5661 @@
+{
+  "fetchedAt": "2026-11-23T07:20:31+07:00",
+  "timezone": "Asia/Jakarta",
+  "status": "ok",
+  "source": "BMKG — Data Prakiraan Cuaca Terbuka",
+  "sourceUrl": "https://data.bmkg.go.id/prakiraan-cuaca/",
+  "attribution": "Sumber: BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)",
+  "notes": [
+    "Setiap kota memakai satu kelurahan sebagai titik prakiraan.",
+    "Tidak ada cuaca yang dikira-kira."
+  ],
+  "fetchErrors": [],
+  "cities": [
+    {
+      "adm4": "31.71.03.1001",
+      "desa": "Kemayoran",
+      "kecamatan": "Kemayoran",
+      "kotkab": "Kota Adm. Jakarta Pusat",
+      "provinsi": "DKI Jakarta",
+      "lat": -6.1647214778,
+      "lon": 106.8453837867,
+      "timezone": "+0700",
+      "label": "Kota Adm. Jakarta Pusat / Kemayoran",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 31,
+          "hu": 70,
+          "weather_desc": "Berawan",
+          "ws": 4.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Berawan",
+          "ws": 8.7,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 29,
+          "hu": 79,
+          "weather_desc": "Berawan",
+          "ws": 3.7,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 27,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 4.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 5.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.8,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 27,
+          "hu": 82,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 29,
+          "hu": 79,
+          "weather_desc": "Berawan",
+          "ws": 5.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 30,
+          "hu": 73,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.5,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.3,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Cerah",
+          "ws": 3.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 25,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 26,
+          "hu": 85,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 0.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 0.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1,
+          "wd": "SE"
+        }
+      ]
+    },
+    {
+      "adm4": "31.72.01.1001",
+      "desa": "Penjaringan",
+      "kecamatan": "Penjaringan",
+      "kotkab": "Kota Adm. Jakarta Utara",
+      "provinsi": "DKI Jakarta",
+      "lat": -6.1220449172,
+      "lon": 106.8000217808,
+      "timezone": "+0700",
+      "label": "Kota Adm. Jakarta Utara / Penjaringan",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 29,
+          "hu": 75,
+          "weather_desc": "Cerah Berawan",
+          "ws": 9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.6,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 3.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 8.2,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 5.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 27,
+          "hu": 85,
+          "weather_desc": "Berawan",
+          "ws": 5,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 10.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Cerah",
+          "ws": 8.9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.6,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 88,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7.4,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.2,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Berawan",
+          "ws": 5.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 27,
+          "hu": 82,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 28,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.3,
+          "wd": "W"
+        }
+      ]
+    },
+    {
+      "adm4": "31.73.01.1001",
+      "desa": "Cengkareng Barat",
+      "kecamatan": "Cengkareng",
+      "kotkab": "Kota Adm. Jakarta Barat",
+      "provinsi": "DKI Jakarta",
+      "lat": -6.1386770759,
+      "lon": 106.7237909972,
+      "timezone": "+0700",
+      "label": "Kota Adm. Jakarta Barat / Cengkareng Barat",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Cerah",
+          "ws": 2.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 30,
+          "hu": 75,
+          "weather_desc": "Cerah",
+          "ws": 2.4,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Berawan",
+          "ws": 8.4,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 29,
+          "hu": 75,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 27,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 4.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 3.2,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 0.2,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 6.9,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Berawan",
+          "ws": 1.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.5,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 29,
+          "hu": 76,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.2,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.8,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.8,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 1.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 1.6,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.6,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 27,
+          "hu": 87,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2,
+          "wd": "S"
+        }
+      ]
+    },
+    {
+      "adm4": "31.74.01.1001",
+      "desa": "Tebet Timur",
+      "kecamatan": "Tebet",
+      "kotkab": "Kota Adm. Jakarta Selatan",
+      "provinsi": "DKI Jakarta",
+      "lat": -6.2338194545,
+      "lon": 106.8555231021,
+      "timezone": "+0700",
+      "label": "Kota Adm. Jakarta Selatan / Tebet Timur",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 31,
+          "hu": 69,
+          "weather_desc": "Berawan",
+          "ws": 4.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Hujan Sedang",
+          "ws": 8.7,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 29,
+          "hu": 79,
+          "weather_desc": "Berawan",
+          "ws": 3.7,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 4.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 5.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 25,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.8,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 5.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 30,
+          "hu": 72,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 28,
+          "hu": 84,
+          "weather_desc": "Hujan Sedang",
+          "ws": 4.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Berawan",
+          "ws": 6.5,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.3,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Cerah",
+          "ws": 3.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 27,
+          "hu": 85,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Hujan Sedang",
+          "ws": 6.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Hujan Sedang",
+          "ws": 0.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Berawan",
+          "ws": 0.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 26,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1,
+          "wd": "SE"
+        }
+      ]
+    },
+    {
+      "adm4": "31.75.01.1001",
+      "desa": "Pisangan Baru",
+      "kecamatan": "Matraman",
+      "kotkab": "Kota Adm. Jakarta Timur",
+      "provinsi": "DKI Jakarta",
+      "lat": -6.2117040208,
+      "lon": 106.8689841425,
+      "timezone": "+0700",
+      "label": "Kota Adm. Jakarta Timur / Pisangan Baru",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah",
+          "ws": 0.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 30,
+          "hu": 73,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Hujan Ringan",
+          "ws": 8.7,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 29,
+          "hu": 76,
+          "weather_desc": "Hujan Sedang",
+          "ws": 3.7,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 4.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 0.8,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 25,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 29,
+          "hu": 76,
+          "weather_desc": "Berawan",
+          "ws": 5.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 30,
+          "hu": 72,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 30,
+          "hu": 75,
+          "weather_desc": "Berawan",
+          "ws": 4.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.5,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.3,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Cerah",
+          "ws": 3.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 3.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 25,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 3.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Hujan Sedang",
+          "ws": 6.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 28,
+          "hu": 84,
+          "weather_desc": "Hujan Sedang",
+          "ws": 0.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.6,
+          "wd": "W"
+        }
+      ]
+    },
+    {
+      "adm4": "32.73.01.1001",
+      "desa": "Sukarasa",
+      "kecamatan": "Sukasari",
+      "kotkab": "Kota Bandung",
+      "provinsi": "Jawa Barat",
+      "lat": -6.8742274703,
+      "lon": 107.5853961716,
+      "timezone": "+0700",
+      "label": "Kota Bandung / Sukarasa",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 22,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.3,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 28,
+          "hu": 67,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 31,
+          "hu": 79,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.9,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 22,
+          "hu": 93,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 22,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 1.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 21,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 1.6,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 21,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 5.4,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 20,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.4,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 22,
+          "hu": 88,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.6,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 25,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 31,
+          "hu": 84,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 24,
+          "hu": 82,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.3,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 22,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 1.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 21,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 0.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 20,
+          "hu": 95,
+          "weather_desc": "Cerah",
+          "ws": 2.4,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 20,
+          "hu": 95,
+          "weather_desc": "Cerah",
+          "ws": 3.9,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 22,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 30,
+          "hu": 73,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 31,
+          "hu": 86,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 22,
+          "hu": 92,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2.4,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 21,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 2.4,
+          "wd": "N"
+        }
+      ]
+    },
+    {
+      "adm4": "32.71.01.1001",
+      "desa": "Batu Tulis",
+      "kecamatan": "Bogor Selatan",
+      "kotkab": "Kota Bogor",
+      "provinsi": "Jawa Barat",
+      "lat": -6.6216080493,
+      "lon": 106.8087345152,
+      "timezone": "+0700",
+      "label": "Kota Bogor / Batu Tulis",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 24,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.3,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 28,
+          "hu": 74,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 31,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Hujan Sedang",
+          "ws": 1.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 3.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 1.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 22,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 22,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.2,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 24,
+          "hu": 88,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.2,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 27,
+          "hu": 81,
+          "weather_desc": "Berawan",
+          "ws": 6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 31,
+          "hu": 79,
+          "weather_desc": "Hujan Petir",
+          "ws": 3.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 26,
+          "hu": 86,
+          "weather_desc": "Hujan Petir",
+          "ws": 2.8,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 2.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 22,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 22,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 24,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 4.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 31,
+          "hu": 76,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 31,
+          "hu": 91,
+          "weather_desc": "Hujan Petir",
+          "ws": 2.7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 28,
+          "hu": 93,
+          "weather_desc": "Hujan Petir",
+          "ws": 2.7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 23,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 3.4,
+          "wd": "SE"
+        }
+      ]
+    },
+    {
+      "adm4": "32.75.01.1001",
+      "desa": "Bekasijaya",
+      "kecamatan": "Bekasi Timur",
+      "kotkab": "Kota Bekasi",
+      "provinsi": "Jawa Barat",
+      "lat": -6.2333592197,
+      "lon": 107.0135599618,
+      "timezone": "+0700",
+      "label": "Kota Bekasi / Bekasijaya",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Cerah",
+          "ws": 1.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 30,
+          "hu": 73,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.5,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 33,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 6.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 6.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 26,
+          "hu": 96,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.2,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 22,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 0.8,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 22,
+          "hu": 98,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 30,
+          "hu": 74,
+          "weather_desc": "Berawan",
+          "ws": 5.6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 33,
+          "hu": 73,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Berawan",
+          "ws": 1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 4.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.8,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 22,
+          "hu": 97,
+          "weather_desc": "Cerah",
+          "ws": 4.4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 22,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 25,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 3.3,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 31,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.3,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 33,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 31,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 6.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 27,
+          "hu": 87,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.2,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.2,
+          "wd": "NE"
+        }
+      ]
+    },
+    {
+      "adm4": "35.78.01.1001",
+      "desa": "Karang Pilang",
+      "kecamatan": "Karang Pilang",
+      "kotkab": "Kota Surabaya",
+      "provinsi": "Jawa Timur",
+      "lat": -7.3405771727,
+      "lon": 112.6899367157,
+      "timezone": "+0700",
+      "label": "Kota Surabaya / Karang Pilang",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.2,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 33,
+          "hu": 56,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 34,
+          "hu": 50,
+          "weather_desc": "Cerah",
+          "ws": 18.5,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 32,
+          "hu": 56,
+          "weather_desc": "Cerah",
+          "ws": 4.7,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 2.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Cerah",
+          "ws": 7.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 13.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 27,
+          "hu": 84,
+          "weather_desc": "Berawan",
+          "ws": 3.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 32,
+          "hu": 66,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 34,
+          "hu": 60,
+          "weather_desc": "Cerah Berawan",
+          "ws": 17.9,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 29,
+          "hu": 76,
+          "weather_desc": "Berawan",
+          "ws": 11.7,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 85,
+          "weather_desc": "Cerah",
+          "ws": 6.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Berawan",
+          "ws": 5.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.2,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 35,
+          "hu": 62,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 34,
+          "hu": 75,
+          "weather_desc": "Berawan",
+          "ws": 15.7,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 31,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 15.7,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 27,
+          "hu": 85,
+          "weather_desc": "Cerah",
+          "ws": 2.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.4,
+          "wd": "W"
+        }
+      ]
+    },
+    {
+      "adm4": "33.74.01.1001",
+      "desa": "Miroto",
+      "kecamatan": "Semarang Tengah",
+      "kotkab": "Kota Semarang",
+      "provinsi": "Jawa Tengah",
+      "lat": -6.9837101856,
+      "lon": 110.4186876715,
+      "timezone": "+0700",
+      "label": "Kota Semarang / Miroto",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 29,
+          "hu": 74,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.9,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 31,
+          "hu": 66,
+          "weather_desc": "Cerah",
+          "ws": 5.8,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 30,
+          "hu": 72,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.7,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Berawan",
+          "ws": 5.2,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 2.2,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 3.8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 1.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 29,
+          "hu": 79,
+          "weather_desc": "Cerah",
+          "ws": 2.8,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 30,
+          "hu": 72,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 29,
+          "hu": 80,
+          "weather_desc": "Hujan Ringan",
+          "ws": 8.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 27,
+          "hu": 87,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.4,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 5.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Cerah",
+          "ws": 2.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Cerah",
+          "ws": 1.2,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.2,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 29,
+          "hu": 75,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.8,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.8,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 11.3,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah",
+          "ws": 11.3,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.4,
+          "wd": "E"
+        }
+      ]
+    },
+    {
+      "adm4": "34.71.01.1001",
+      "desa": "Kricak",
+      "kecamatan": "Tegalrejo",
+      "kotkab": "Kota Yogyakarta",
+      "provinsi": "Daerah Istimewa Yogyakarta",
+      "lat": -7.7735987808,
+      "lon": 110.3571889625,
+      "timezone": "+0700",
+      "label": "Kota Yogyakarta / Kricak",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Berawan",
+          "ws": 3.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 29,
+          "hu": 74,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Hujan Sedang",
+          "ws": 7,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Hujan Petir",
+          "ws": 10,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 6.8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 25,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 1.6,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 1.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 25,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 2,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 27,
+          "hu": 82,
+          "weather_desc": "Cerah",
+          "ws": 0.8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 29,
+          "hu": 75,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Hujan Petir",
+          "ws": 7.5,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Udara Kabur",
+          "ws": 5.9,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 3.2,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 2.5,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 4,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Udara Kabur",
+          "ws": 5.2,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 26,
+          "hu": 85,
+          "weather_desc": "Berawan",
+          "ws": 0.8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 29,
+          "hu": 74,
+          "weather_desc": "Berawan",
+          "ws": 7.6,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 28,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7.6,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 2.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 2.2,
+          "wd": "NW"
+        }
+      ]
+    },
+    {
+      "adm4": "51.71.01.1001",
+      "desa": "Serangan",
+      "kecamatan": "Denpasar Selatan",
+      "kotkab": "Kota Denpasar",
+      "provinsi": "Bali",
+      "lat": -8.7362586735,
+      "lon": 115.2321098598,
+      "timezone": "+0800",
+      "label": "Kota Denpasar / Serangan",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 09:00:00",
+          "t": 29,
+          "hu": 80,
+          "weather_desc": "Cerah",
+          "ws": 8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 12:00:00",
+          "t": 31,
+          "hu": 76,
+          "weather_desc": "Cerah",
+          "ws": 11.6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 15:00:00",
+          "t": 31,
+          "hu": 75,
+          "weather_desc": "Cerah Berawan",
+          "ws": 25.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 18:00:00",
+          "t": 29,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 11.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 21:00:00",
+          "t": 28,
+          "hu": 86,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 00:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Berawan",
+          "ws": 6.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 03:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 06:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 5.6,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 09:00:00",
+          "t": 30,
+          "hu": 80,
+          "weather_desc": "Cerah",
+          "ws": 3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 12:00:00",
+          "t": 30,
+          "hu": 76,
+          "weather_desc": "Cerah",
+          "ws": 8.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 15:00:00",
+          "t": 31,
+          "hu": 76,
+          "weather_desc": "Cerah",
+          "ws": 9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 18:00:00",
+          "t": 29,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 11.8,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 21:00:00",
+          "t": 28,
+          "hu": 86,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.5,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 00:00:00",
+          "t": 27,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 03:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.8,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 06:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Cerah",
+          "ws": 3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 09:00:00",
+          "t": 29,
+          "hu": 82,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 12:00:00",
+          "t": 31,
+          "hu": 76,
+          "weather_desc": "Cerah Berawan",
+          "ws": 9.3,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 15:00:00",
+          "t": 31,
+          "hu": 78,
+          "weather_desc": "Berawan",
+          "ws": 9.3,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 18:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.5,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 21:00:00",
+          "t": 28,
+          "hu": 85,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.5,
+          "wd": "S"
+        }
+      ]
+    },
+    {
+      "adm4": "73.71.01.1001",
+      "desa": "Bontorannu",
+      "kecamatan": "Mariso",
+      "kotkab": "Kota Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "lat": -5.1621812207,
+      "lon": 119.4042520292,
+      "timezone": "+0800",
+      "label": "Kota Makassar / Bontorannu",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Cerah",
+          "ws": 4.7,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 30,
+          "hu": 70,
+          "weather_desc": "Cerah",
+          "ws": 7.4,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 30,
+          "hu": 71,
+          "weather_desc": "Cerah",
+          "ws": 9.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.7,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 28,
+          "hu": 88,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 27,
+          "hu": 87,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Cerah",
+          "ws": 4.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 27,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 6.5,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.4,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 29,
+          "hu": 76,
+          "weather_desc": "Cerah",
+          "ws": 7.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 29,
+          "hu": 75,
+          "weather_desc": "Berawan",
+          "ws": 2,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Berawan",
+          "ws": 4.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 28,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 5.5,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Berawan",
+          "ws": 5.6,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Berawan",
+          "ws": 1.8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 27,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 3.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Berawan",
+          "ws": 4.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 4.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 29,
+          "hu": 79,
+          "weather_desc": "Berawan",
+          "ws": 5.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 30,
+          "hu": 73,
+          "weather_desc": "Berawan",
+          "ws": 5.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 27,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 4.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 4.8,
+          "wd": "N"
+        }
+      ]
+    },
+    {
+      "adm4": "12.71.01.1001",
+      "desa": "Pasar Baru",
+      "kecamatan": "Medan Kota",
+      "kotkab": "Kota Medan",
+      "provinsi": "Sumatera Utara",
+      "lat": 3.583985458,
+      "lon": 98.6847407431,
+      "timezone": "+0700",
+      "label": "Kota Medan / Pasar Baru",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 0.9,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 30,
+          "hu": 71,
+          "weather_desc": "Berawan",
+          "ws": 6.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Hujan Sedang",
+          "ws": 4.1,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 5,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 5.2,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.1,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 3.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 6.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 30,
+          "hu": 74,
+          "weather_desc": "Berawan",
+          "ws": 4.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 6.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 6.2,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 7.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 27,
+          "hu": 81,
+          "weather_desc": "Berawan",
+          "ws": 7.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 30,
+          "hu": 72,
+          "weather_desc": "Cerah Berawan",
+          "ws": 8.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Hujan Ringan",
+          "ws": 8.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7.3,
+          "wd": "W"
+        }
+      ]
+    },
+    {
+      "adm4": "16.71.01.1001",
+      "desa": "Tiga-puluh-lima Ilir",
+      "kecamatan": "Ilir Barat Dua",
+      "kotkab": "Kota Palembang",
+      "provinsi": "Sumatera Selatan",
+      "lat": -3.0080242465,
+      "lon": 104.7436045632,
+      "timezone": "+0700",
+      "label": "Kota Palembang / Tiga-puluh-lima Ilir",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 25,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.7,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 28,
+          "hu": 78,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.2,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 32,
+          "hu": 68,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 30,
+          "hu": 75,
+          "weather_desc": "Berawan",
+          "ws": 7.3,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 5.4,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 26,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.7,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Udara Kabur",
+          "ws": 2.5,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 24,
+          "hu": 95,
+          "weather_desc": "Udara Kabur",
+          "ws": 6.1,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 3.5,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 32,
+          "hu": 73,
+          "weather_desc": "Cerah",
+          "ws": 2.4,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 30,
+          "hu": 74,
+          "weather_desc": "Berawan",
+          "ws": 3.9,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 2.9,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 5.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 24,
+          "hu": 99,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.1,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Udara Kabur",
+          "ws": 1.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 25,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.7,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 30,
+          "hu": 76,
+          "weather_desc": "Berawan",
+          "ws": 5.7,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 33,
+          "hu": 70,
+          "weather_desc": "Berawan",
+          "ws": 5.5,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 30,
+          "hu": 81,
+          "weather_desc": "Hujan Sedang",
+          "ws": 5.5,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Hujan Petir",
+          "ws": 1.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Hujan Petir",
+          "ws": 1.6,
+          "wd": "W"
+        }
+      ]
+    },
+    {
+      "adm4": "13.71.01.1001",
+      "desa": "Belakang Pondok",
+      "kecamatan": "Padang Selatan",
+      "kotkab": "Kota Padang",
+      "provinsi": "Sumatera Barat",
+      "lat": -0.9556523519,
+      "lon": 100.3624567146,
+      "timezone": "+0700",
+      "label": "Kota Padang / Belakang Pondok",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 26,
+          "hu": 86,
+          "weather_desc": "Cerah",
+          "ws": 4.3,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Cerah",
+          "ws": 6.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 27,
+          "hu": 88,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.8,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.7,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 26,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 25,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 2.4,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 25,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 26,
+          "hu": 84,
+          "weather_desc": "Berawan",
+          "ws": 1.7,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Berawan",
+          "ws": 5.1,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Cerah",
+          "ws": 5.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 0.6,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 4.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 26,
+          "hu": 85,
+          "weather_desc": "Berawan",
+          "ws": 3.9,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 25,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 1.6,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 26,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 1.8,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 1.8,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 27,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 4.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 27,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 4.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Berawan",
+          "ws": 3.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 25,
+          "hu": 90,
+          "weather_desc": "Berawan",
+          "ws": 3.3,
+          "wd": "SW"
+        }
+      ]
+    },
+    {
+      "adm4": "64.71.01.1001",
+      "desa": "Manggar",
+      "kecamatan": "Balikpapan Timur",
+      "kotkab": "Kota Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "lat": -1.2144233439,
+      "lon": 116.9377421803,
+      "timezone": "+0800",
+      "label": "Kota Balikpapan / Manggar",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 29,
+          "hu": 76,
+          "weather_desc": "Cerah Berawan",
+          "ws": 9.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 29,
+          "hu": 77,
+          "weather_desc": "Cerah",
+          "ws": 10.4,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 29,
+          "hu": 79,
+          "weather_desc": "Cerah",
+          "ws": 10.6,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Cerah Berawan",
+          "ws": 10.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.5,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Udara Kabur",
+          "ws": 6.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Cerah",
+          "ws": 6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 28,
+          "hu": 85,
+          "weather_desc": "Cerah",
+          "ws": 10.3,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 29,
+          "hu": 81,
+          "weather_desc": "Cerah",
+          "ws": 11.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 28,
+          "hu": 84,
+          "weather_desc": "Cerah",
+          "ws": 7.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 27,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Udara Kabur",
+          "ws": 13.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 7.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Cerah",
+          "ws": 6.7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Hujan Petir",
+          "ws": 5.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Petir",
+          "ws": 5.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 27,
+          "hu": 88,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.4,
+          "wd": "NW"
+        }
+      ]
+    },
+    {
+      "adm4": "64.72.01.1001",
+      "desa": "Rawa Makmur",
+      "kecamatan": "Palaran",
+      "kotkab": "Kota Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "lat": -0.5721937385,
+      "lon": 117.1774950645,
+      "timezone": "+0800",
+      "label": "Kota Samarinda / Rawa Makmur",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Berawan",
+          "ws": 5.6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 30,
+          "hu": 71,
+          "weather_desc": "Cerah",
+          "ws": 2.9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 30,
+          "hu": 75,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.5,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 28,
+          "hu": 87,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2.2,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 27,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 26,
+          "hu": 98,
+          "weather_desc": "Cerah",
+          "ws": 3.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 7.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 30,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 4.7,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 30,
+          "hu": 74,
+          "weather_desc": "Udara Kabur",
+          "ws": 3.2,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 29,
+          "hu": 83,
+          "weather_desc": "Cerah",
+          "ws": 7.4,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 27,
+          "hu": 93,
+          "weather_desc": "Cerah",
+          "ws": 3.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Cerah Berawan",
+          "ws": 9.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Udara Kabur",
+          "ws": 10.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 7.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Berawan",
+          "ws": 4.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 29,
+          "hu": 73,
+          "weather_desc": "Berawan",
+          "ws": 4.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 31,
+          "hu": 69,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 27,
+          "hu": 87,
+          "weather_desc": "Berawan",
+          "ws": 5,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 26,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.3,
+          "wd": "W"
+        }
+      ]
+    },
+    {
+      "adm4": "63.71.01.1001",
+      "desa": "Mantuil",
+      "kecamatan": "Banjarmasin Selatan",
+      "kotkab": "Kota Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "lat": -3.3564628478,
+      "lon": 114.5468672299,
+      "timezone": "+0800",
+      "label": "Kota Banjarmasin / Mantuil",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Cerah",
+          "ws": 9.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 30,
+          "hu": 68,
+          "weather_desc": "Cerah",
+          "ws": 9.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 33,
+          "hu": 59,
+          "weather_desc": "Berawan",
+          "ws": 9.3,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Hujan Ringan",
+          "ws": 11.6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.3,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Hujan Sedang",
+          "ws": 9.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 26,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 9.2,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 29,
+          "hu": 73,
+          "weather_desc": "Cerah",
+          "ws": 9.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 32,
+          "hu": 62,
+          "weather_desc": "Cerah",
+          "ws": 9.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Berawan",
+          "ws": 9.3,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 26,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 9.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 9.3,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 9.3,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 9.3,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Cerah",
+          "ws": 5.9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 30,
+          "hu": 73,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 27,
+          "hu": 94,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 28,
+          "hu": 90,
+          "weather_desc": "Udara Kabur",
+          "ws": 5.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 26,
+          "hu": 98,
+          "weather_desc": "Udara Kabur",
+          "ws": 2.4,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Udara Kabur",
+          "ws": 2.4,
+          "wd": "N"
+        }
+      ]
+    },
+    {
+      "adm4": "71.71.01.1001",
+      "desa": "Molas",
+      "kecamatan": "Bunaken",
+      "kotkab": "Kota Manado",
+      "provinsi": "Sulawesi Utara",
+      "lat": 1.5443779179,
+      "lon": 124.8417447349,
+      "timezone": "+0800",
+      "label": "Kota Manado / Molas",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 29,
+          "hu": 68,
+          "weather_desc": "Cerah",
+          "ws": 1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 30,
+          "hu": 71,
+          "weather_desc": "Cerah",
+          "ws": 8.7,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 29,
+          "hu": 73,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7.8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 28,
+          "hu": 76,
+          "weather_desc": "Cerah",
+          "ws": 4.6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 27,
+          "hu": 84,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 25,
+          "hu": 92,
+          "weather_desc": "Cerah",
+          "ws": 3.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 25,
+          "hu": 94,
+          "weather_desc": "Cerah",
+          "ws": 3.8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Cerah",
+          "ws": 3.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 27,
+          "hu": 82,
+          "weather_desc": "Cerah",
+          "ws": 2.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 26,
+          "hu": 88,
+          "weather_desc": "Cerah",
+          "ws": 4.4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 25,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.4,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Hujan Ringan",
+          "ws": 0.4,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 27,
+          "hu": 84,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.9,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.9,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Cerah",
+          "ws": 2.5,
+          "wd": "SE"
+        }
+      ]
+    },
+    {
+      "adm4": "82.71.01.1001",
+      "desa": "Jambula",
+      "kecamatan": "Pulau Ternate",
+      "kotkab": "Kota Ternate",
+      "provinsi": "Maluku Utara",
+      "lat": 0.76141024,
+      "lon": 127.3196920287,
+      "timezone": "+0900",
+      "label": "Kota Ternate / Jambula",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 09:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Cerah",
+          "ws": 6.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 12:00:00",
+          "t": 29,
+          "hu": 75,
+          "weather_desc": "Cerah",
+          "ws": 15.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 15:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 13.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 18:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Cerah Berawan",
+          "ws": 13.7,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 21:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Berawan",
+          "ws": 12.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 00:00:00",
+          "t": 27,
+          "hu": 87,
+          "weather_desc": "Berawan",
+          "ws": 10.8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 03:00:00",
+          "t": 26,
+          "hu": 87,
+          "weather_desc": "Cerah",
+          "ws": 8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 06:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah",
+          "ws": 5,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 09:00:00",
+          "t": 28,
+          "hu": 76,
+          "weather_desc": "Cerah",
+          "ws": 4.2,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 12:00:00",
+          "t": 29,
+          "hu": 74,
+          "weather_desc": "Cerah",
+          "ws": 13.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 15:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Cerah",
+          "ws": 12.1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 18:00:00",
+          "t": 28,
+          "hu": 80,
+          "weather_desc": "Cerah Berawan",
+          "ws": 10.9,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 21:00:00",
+          "t": 27,
+          "hu": 85,
+          "weather_desc": "Cerah Berawan",
+          "ws": 10.6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 00:00:00",
+          "t": 27,
+          "hu": 85,
+          "weather_desc": "Cerah",
+          "ws": 12.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 03:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Cerah",
+          "ws": 10.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 06:00:00",
+          "t": 27,
+          "hu": 84,
+          "weather_desc": "Cerah",
+          "ws": 7.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 09:00:00",
+          "t": 28,
+          "hu": 75,
+          "weather_desc": "Cerah",
+          "ws": 9.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 12:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 15:00:00",
+          "t": 28,
+          "hu": 78,
+          "weather_desc": "Hujan Ringan",
+          "ws": 14.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 18:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Berawan",
+          "ws": 14.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 21:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.9,
+          "wd": "NW"
+        }
+      ]
+    },
+    {
+      "adm4": "91.71.01.1001",
+      "desa": "Gurabesi",
+      "kecamatan": "Jayapura Utara",
+      "kotkab": "Kota Jayapura",
+      "provinsi": "Papua",
+      "lat": -2.5264449691,
+      "lon": 140.6568889518,
+      "timezone": "+0900",
+      "label": "Kota Jayapura / Gurabesi",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 09:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Cerah Berawan",
+          "ws": 8.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 12:00:00",
+          "t": 27,
+          "hu": 83,
+          "weather_desc": "Cerah Berawan",
+          "ws": 8.5,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 15:00:00",
+          "t": 27,
+          "hu": 84,
+          "weather_desc": "Cerah Berawan",
+          "ws": 14.5,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 18:00:00",
+          "t": 25,
+          "hu": 93,
+          "weather_desc": "Cerah Berawan",
+          "ws": 10.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 21:00:00",
+          "t": 25,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.4,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 00:00:00",
+          "t": 24,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 03:00:00",
+          "t": 24,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.4,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 06:00:00",
+          "t": 25,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.5,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 09:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 12:00:00",
+          "t": 29,
+          "hu": 74,
+          "weather_desc": "Cerah",
+          "ws": 15,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 15:00:00",
+          "t": 26,
+          "hu": 84,
+          "weather_desc": "Cerah Berawan",
+          "ws": 27,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 18:00:00",
+          "t": 25,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 16.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 21:00:00",
+          "t": 25,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 7.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 00:00:00",
+          "t": 24,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 10,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 03:00:00",
+          "t": 24,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.7,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 06:00:00",
+          "t": 24,
+          "hu": 94,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 09:00:00",
+          "t": 27,
+          "hu": 80,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 12:00:00",
+          "t": 28,
+          "hu": 75,
+          "weather_desc": "Cerah",
+          "ws": 5.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 15:00:00",
+          "t": 27,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 15,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 18:00:00",
+          "t": 25,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 15,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 21:00:00",
+          "t": 25,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.1,
+          "wd": "SW"
+        }
+      ]
+    },
+    {
+      "adm4": "17.71.01.1001",
+      "desa": "Pagar Dewa",
+      "kecamatan": "Selebar",
+      "kotkab": "Kota Bengkulu",
+      "provinsi": "Bengkulu",
+      "lat": -3.8406661585,
+      "lon": 102.3207331977,
+      "timezone": "+0700",
+      "label": "Kota Bengkulu / Pagar Dewa",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 6.7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 30,
+          "hu": 72,
+          "weather_desc": "Cerah Berawan",
+          "ws": 12.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 32,
+          "hu": 73,
+          "weather_desc": "Cerah Berawan",
+          "ws": 11.8,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 27,
+          "hu": 90,
+          "weather_desc": "Hujan Ringan",
+          "ws": 12.4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 12.8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Cerah Berawan",
+          "ws": 12,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 13.4,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 15.4,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 13.9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 29,
+          "hu": 73,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 31,
+          "hu": 75,
+          "weather_desc": "Hujan Ringan",
+          "ws": 13.9,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 26,
+          "hu": 94,
+          "weather_desc": "Hujan Ringan",
+          "ws": 10.8,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 8.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 17,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 13,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 25,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 3.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Berawan",
+          "ws": 3.1,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 29,
+          "hu": 72,
+          "weather_desc": "Berawan",
+          "ws": 11.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 27,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 11.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 5.5,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 5.5,
+          "wd": "N"
+        }
+      ]
+    },
+    {
+      "adm4": "36.71.01.1001",
+      "desa": "Sukarasa",
+      "kecamatan": "Tangerang",
+      "kotkab": "Kota Tangerang",
+      "provinsi": "Banten",
+      "lat": -6.1728843824,
+      "lon": 106.6318514866,
+      "timezone": "+0700",
+      "label": "Kota Tangerang / Sukarasa",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 27,
+          "hu": 92,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 29,
+          "hu": 75,
+          "weather_desc": "Cerah",
+          "ws": 3.6,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 33,
+          "hu": 77,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.6,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 28,
+          "hu": 74,
+          "weather_desc": "Berawan",
+          "ws": 5,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Berawan",
+          "ws": 1,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 3.1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 4.7,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 0.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 27,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 5.8,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.4,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 33,
+          "hu": 74,
+          "weather_desc": "Berawan",
+          "ws": 6.5,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 28,
+          "hu": 74,
+          "weather_desc": "Berawan",
+          "ws": 0.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 96,
+          "weather_desc": "Hujan Ringan",
+          "ws": 0.4,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 97,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.4,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 0.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 27,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 3.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 30,
+          "hu": 83,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 32,
+          "hu": 77,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 30,
+          "hu": 79,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.1,
+          "wd": "SE"
+        }
+      ]
+    },
+    {
+      "adm4": "36.72.01.1001",
+      "desa": "Cibeber",
+      "kecamatan": "Cibeber",
+      "kotkab": "Kota Cilegon",
+      "provinsi": "Banten",
+      "lat": -6.0331103125,
+      "lon": 106.0696595656,
+      "timezone": "+0700",
+      "label": "Kota Cilegon / Cibeber",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 27,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 29,
+          "hu": 73,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.3,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 33,
+          "hu": 73,
+          "weather_desc": "Berawan",
+          "ws": 7.7,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 3.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 26,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 8.1,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 4.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 4.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 3.4,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 27,
+          "hu": 97,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.5,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 33,
+          "hu": 75,
+          "weather_desc": "Berawan",
+          "ws": 9.2,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 8.9,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 97,
+          "weather_desc": "Cerah",
+          "ws": 2.7,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 24,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 11.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 27,
+          "hu": 97,
+          "weather_desc": "Hujan Ringan",
+          "ws": 8.4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 29,
+          "hu": 93,
+          "weather_desc": "Hujan Ringan",
+          "ws": 8.4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 32,
+          "hu": 80,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 30,
+          "hu": 83,
+          "weather_desc": "Berawan",
+          "ws": 3.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 26,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 1.7,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 25,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 1.7,
+          "wd": "S"
+        }
+      ]
+    },
+    {
+      "adm4": "36.73.01.1001",
+      "desa": "Serang",
+      "kecamatan": "Serang",
+      "kotkab": "Kota Serang",
+      "provinsi": "Banten",
+      "lat": -6.1279709386,
+      "lon": 106.1468474876,
+      "timezone": "+0700",
+      "label": "Kota Serang / Serang",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 27,
+          "hu": 95,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.4,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 29,
+          "hu": 74,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.6,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 33,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 5.9,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 28,
+          "hu": 87,
+          "weather_desc": "Berawan",
+          "ws": 6.5,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 26,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.3,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 1.8,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 2.6,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 99,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.8,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 27,
+          "hu": 97,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 33,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 8.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 1.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 5.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 98,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.5,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.5,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 24,
+          "hu": 99,
+          "weather_desc": "Berawan",
+          "ws": 11.6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 27,
+          "hu": 97,
+          "weather_desc": "Berawan",
+          "ws": 6.8,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 29,
+          "hu": 93,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6.8,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 32,
+          "hu": 79,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.2,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 29,
+          "hu": 88,
+          "weather_desc": "Berawan",
+          "ws": 4.2,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 26,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 0.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Berawan",
+          "ws": 0.7,
+          "wd": "SE"
+        }
+      ]
+    },
+    {
+      "adm4": "36.74.01.1001",
+      "desa": "Ciater",
+      "kecamatan": "Serpong",
+      "kotkab": "Kota Tangerang Selatan",
+      "provinsi": "Banten",
+      "lat": -6.3223089121,
+      "lon": 106.6942904254,
+      "timezone": "+0700",
+      "label": "Kota Tangerang Selatan / Ciater",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 27,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.2,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 29,
+          "hu": 75,
+          "weather_desc": "Cerah",
+          "ws": 4.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 33,
+          "hu": 81,
+          "weather_desc": "Hujan Ringan",
+          "ws": 6,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 28,
+          "hu": 77,
+          "weather_desc": "Berawan",
+          "ws": 4.4,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 26,
+          "hu": 90,
+          "weather_desc": "Berawan",
+          "ws": 5.5,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 25,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 3.5,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 3.4,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 27,
+          "hu": 95,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.8,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 28,
+          "hu": 79,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.9,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 33,
+          "hu": 76,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.5,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Berawan",
+          "ws": 6.4,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 27,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 5.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 26,
+          "hu": 98,
+          "weather_desc": "Cerah Berawan",
+          "ws": 0.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.9,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 27,
+          "hu": 93,
+          "weather_desc": "Berawan",
+          "ws": 0.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 31,
+          "hu": 81,
+          "weather_desc": "Hujan Sedang",
+          "ws": 0.9,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 32,
+          "hu": 82,
+          "weather_desc": "Hujan Sedang",
+          "ws": 5.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 29,
+          "hu": 85,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 26,
+          "hu": 93,
+          "weather_desc": "Hujan Ringan",
+          "ws": 2.9,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.9,
+          "wd": "S"
+        }
+      ]
+    },
+    {
+      "adm4": "53.71.01.1001",
+      "desa": "Namosain",
+      "kecamatan": "Alak",
+      "kotkab": "Kota Kupang",
+      "provinsi": "Nusa Tenggara Timur",
+      "lat": -10.175663957,
+      "lon": 123.5533510525,
+      "timezone": "+0800",
+      "label": "Kota Kupang / Namosain",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 29,
+          "hu": 74,
+          "weather_desc": "Cerah",
+          "ws": 3.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 31,
+          "hu": 69,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 34,
+          "hu": 69,
+          "weather_desc": "Hujan Ringan",
+          "ws": 11.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 30,
+          "hu": 72,
+          "weather_desc": "Berawan",
+          "ws": 37,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.7,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 28,
+          "hu": 83,
+          "weather_desc": "Cerah",
+          "ws": 3.6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 28,
+          "hu": 86,
+          "weather_desc": "Cerah",
+          "ws": 2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 25,
+          "hu": 87,
+          "weather_desc": "Cerah",
+          "ws": 1,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 30,
+          "hu": 76,
+          "weather_desc": "Cerah",
+          "ws": 2.3,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 31,
+          "hu": 72,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 34,
+          "hu": 73,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Berawan",
+          "ws": 37,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Cerah Berawan",
+          "ws": 3.6,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 28,
+          "hu": 84,
+          "weather_desc": "Cerah",
+          "ws": 4.1,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 27,
+          "hu": 86,
+          "weather_desc": "Cerah",
+          "ws": 0.9,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 25,
+          "hu": 87,
+          "weather_desc": "Cerah",
+          "ws": 0.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 30,
+          "hu": 75,
+          "weather_desc": "Cerah",
+          "ws": 1.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 33,
+          "hu": 70,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 34,
+          "hu": 75,
+          "weather_desc": "Hujan Ringan",
+          "ws": 37,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 31,
+          "hu": 76,
+          "weather_desc": "Cerah",
+          "ws": 37,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 28,
+          "hu": 84,
+          "weather_desc": "Cerah",
+          "ws": 4.3,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 26,
+          "hu": 89,
+          "weather_desc": "Cerah",
+          "ws": 4.3,
+          "wd": "E"
+        }
+      ]
+    },
+    {
+      "adm4": "75.71.01.1001",
+      "desa": "Dembe I",
+      "kecamatan": "Kota Barat",
+      "kotkab": "Kota Gorontalo",
+      "provinsi": "Gorontalo",
+      "lat": 0.5469105231,
+      "lon": 123.0050940122,
+      "timezone": "+0800",
+      "label": "Kota Gorontalo / Dembe I",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 08:00:00",
+          "t": 29,
+          "hu": 70,
+          "weather_desc": "Cerah",
+          "ws": 2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 11:00:00",
+          "t": 32,
+          "hu": 57,
+          "weather_desc": "Cerah",
+          "ws": 10.3,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 14:00:00",
+          "t": 32,
+          "hu": 61,
+          "weather_desc": "Cerah",
+          "ws": 10.3,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-23 17:00:00",
+          "t": 30,
+          "hu": 71,
+          "weather_desc": "Cerah",
+          "ws": 1.9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 20:00:00",
+          "t": 27,
+          "hu": 84,
+          "weather_desc": "Cerah",
+          "ws": 5.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 23:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 6.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 02:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 5.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 05:00:00",
+          "t": 24,
+          "hu": 96,
+          "weather_desc": "Cerah Berawan",
+          "ws": 4.8,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 08:00:00",
+          "t": 29,
+          "hu": 70,
+          "weather_desc": "Berawan",
+          "ws": 2.9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 11:00:00",
+          "t": 32,
+          "hu": 60,
+          "weather_desc": "Berawan",
+          "ws": 11.8,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 14:00:00",
+          "t": 32,
+          "hu": 60,
+          "weather_desc": "Cerah Berawan",
+          "ws": 10.6,
+          "wd": "S"
+        },
+        {
+          "local_datetime": "2026-11-24 17:00:00",
+          "t": 28,
+          "hu": 81,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 20:00:00",
+          "t": 27,
+          "hu": 87,
+          "weather_desc": "Cerah",
+          "ws": 6.6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 23:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 02:00:00",
+          "t": 25,
+          "hu": 94,
+          "weather_desc": "Berawan",
+          "ws": 6.6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 05:00:00",
+          "t": 25,
+          "hu": 96,
+          "weather_desc": "Berawan",
+          "ws": 4,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 08:00:00",
+          "t": 28,
+          "hu": 76,
+          "weather_desc": "Berawan",
+          "ws": 2.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 11:00:00",
+          "t": 31,
+          "hu": 68,
+          "weather_desc": "Cerah Berawan",
+          "ws": 2.7,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 14:00:00",
+          "t": 28,
+          "hu": 82,
+          "weather_desc": "Berawan",
+          "ws": 12,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 17:00:00",
+          "t": 27,
+          "hu": 85,
+          "weather_desc": "Cerah Berawan",
+          "ws": 12,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-25 20:00:00",
+          "t": 26,
+          "hu": 92,
+          "weather_desc": "Cerah",
+          "ws": 8.7,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 23:00:00",
+          "t": 25,
+          "hu": 95,
+          "weather_desc": "Cerah",
+          "ws": 8.7,
+          "wd": "NW"
+        }
+      ]
+    },
+    {
+      "adm4": "62.71.01.1001",
+      "desa": "Pahandut",
+      "kecamatan": "Pahandut",
+      "kotkab": "Kota Palangkaraya",
+      "provinsi": "Kalimantan Tengah",
+      "lat": -2.1997496076,
+      "lon": 113.9503267764,
+      "timezone": "+0700",
+      "label": "Kota Palangkaraya / Pahandut",
+      "forecast": [
+        {
+          "local_datetime": "2026-11-23 07:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.8,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-23 10:00:00",
+          "t": 29,
+          "hu": 74,
+          "weather_desc": "Cerah Berawan",
+          "ws": 6.7,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-23 13:00:00",
+          "t": 35,
+          "hu": 63,
+          "weather_desc": "Cerah",
+          "ws": 0.3,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 16:00:00",
+          "t": 31,
+          "hu": 69,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.9,
+          "wd": "SE"
+        },
+        {
+          "local_datetime": "2026-11-23 19:00:00",
+          "t": 25,
+          "hu": 99,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.8,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-23 22:00:00",
+          "t": 25,
+          "hu": 99,
+          "weather_desc": "Hujan Ringan",
+          "ws": 5.5,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-24 01:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 04:00:00",
+          "t": 24,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 1.1,
+          "wd": "NE"
+        },
+        {
+          "local_datetime": "2026-11-24 07:00:00",
+          "t": 26,
+          "hu": 91,
+          "weather_desc": "Berawan",
+          "ws": 4.1,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 10:00:00",
+          "t": 30,
+          "hu": 72,
+          "weather_desc": "Cerah Berawan",
+          "ws": 1.9,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-24 13:00:00",
+          "t": 33,
+          "hu": 71,
+          "weather_desc": "Berawan",
+          "ws": 2.7,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-24 16:00:00",
+          "t": 28,
+          "hu": 85,
+          "weather_desc": "Hujan Ringan",
+          "ws": 7,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 19:00:00",
+          "t": 26,
+          "hu": 95,
+          "weather_desc": "Berawan",
+          "ws": 6.7,
+          "wd": "SW"
+        },
+        {
+          "local_datetime": "2026-11-24 22:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Hujan Petir",
+          "ws": 5.6,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 01:00:00",
+          "t": 24,
+          "hu": 99,
+          "weather_desc": "Hujan Ringan",
+          "ws": 4.2,
+          "wd": "NW"
+        },
+        {
+          "local_datetime": "2026-11-25 04:00:00",
+          "t": 24,
+          "hu": 99,
+          "weather_desc": "Berawan",
+          "ws": 2.6,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 07:00:00",
+          "t": 25,
+          "hu": 92,
+          "weather_desc": "Berawan",
+          "ws": 5.2,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 10:00:00",
+          "t": 29,
+          "hu": 78,
+          "weather_desc": "Cerah Berawan",
+          "ws": 5.2,
+          "wd": "N"
+        },
+        {
+          "local_datetime": "2026-11-25 13:00:00",
+          "t": 27,
+          "hu": 90,
+          "weather_desc": "Cerah Berawan",
+          "ws": 9.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 16:00:00",
+          "t": 27,
+          "hu": 93,
+          "weather_desc": "Hujan Ringan",
+          "ws": 9.6,
+          "wd": "W"
+        },
+        {
+          "local_datetime": "2026-11-25 19:00:00",
+          "t": 25,
+          "hu": 98,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.2,
+          "wd": "E"
+        },
+        {
+          "local_datetime": "2026-11-25 22:00:00",
+          "t": 25,
+          "hu": 99,
+          "weather_desc": "Hujan Ringan",
+          "ws": 3.2,
+          "wd": "E"
+        }
+      ]
+    }
+  ]
+}

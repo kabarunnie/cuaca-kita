@@ -1,0 +1,302 @@
+[
+  {
+    "adm4": "31.71.03.1001",
+    "desa": "Kemayoran",
+    "kecamatan": "Kemayoran",
+    "kotkab": "Kota Adm. Jakarta Pusat",
+    "provinsi": "DKI Jakarta",
+    "lat": -6.1647214778,
+    "lon": 106.8453837867,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "31.72.01.1001",
+    "desa": "Penjaringan",
+    "kecamatan": "Penjaringan",
+    "kotkab": "Kota Adm. Jakarta Utara",
+    "provinsi": "DKI Jakarta",
+    "lat": -6.1220449172,
+    "lon": 106.8000217808,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "31.73.01.1001",
+    "desa": "Cengkareng Barat",
+    "kecamatan": "Cengkareng",
+    "kotkab": "Kota Adm. Jakarta Barat",
+    "provinsi": "DKI Jakarta",
+    "lat": -6.1386770759,
+    "lon": 106.7237909972,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "31.74.01.1001",
+    "desa": "Tebet Timur",
+    "kecamatan": "Tebet",
+    "kotkab": "Kota Adm. Jakarta Selatan",
+    "provinsi": "DKI Jakarta",
+    "lat": -6.2338194545,
+    "lon": 106.8555231021,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "31.75.01.1001",
+    "desa": "Pisangan Baru",
+    "kecamatan": "Matraman",
+    "kotkab": "Kota Adm. Jakarta Timur",
+    "provinsi": "DKI Jakarta",
+    "lat": -6.2117040208,
+    "lon": 106.8689841425,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "32.73.01.1001",
+    "desa": "Sukarasa",
+    "kecamatan": "Sukasari",
+    "kotkab": "Kota Bandung",
+    "provinsi": "Jawa Barat",
+    "lat": -6.8742274703,
+    "lon": 107.5853961716,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "32.71.01.1001",
+    "desa": "Batu Tulis",
+    "kecamatan": "Bogor Selatan",
+    "kotkab": "Kota Bogor",
+    "provinsi": "Jawa Barat",
+    "lat": -6.6216080493,
+    "lon": 106.8087345152,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "32.75.01.1001",
+    "desa": "Bekasijaya",
+    "kecamatan": "Bekasi Timur",
+    "kotkab": "Kota Bekasi",
+    "provinsi": "Jawa Barat",
+    "lat": -6.2333592197,
+    "lon": 107.0135599618,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "35.78.01.1001",
+    "desa": "Karang Pilang",
+    "kecamatan": "Karang Pilang",
+    "kotkab": "Kota Surabaya",
+    "provinsi": "Jawa Timur",
+    "lat": -7.3405771727,
+    "lon": 112.6899367157,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "33.74.01.1001",
+    "desa": "Miroto",
+    "kecamatan": "Semarang Tengah",
+    "kotkab": "Kota Semarang",
+    "provinsi": "Jawa Tengah",
+    "lat": -6.9837101856,
+    "lon": 110.4186876715,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "34.71.01.1001",
+    "desa": "Kricak",
+    "kecamatan": "Tegalrejo",
+    "kotkab": "Kota Yogyakarta",
+    "provinsi": "Daerah Istimewa Yogyakarta",
+    "lat": -7.7735987808,
+    "lon": 110.3571889625,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "51.71.01.1001",
+    "desa": "Serangan",
+    "kecamatan": "Denpasar Selatan",
+    "kotkab": "Kota Denpasar",
+    "provinsi": "Bali",
+    "lat": -8.7362586735,
+    "lon": 115.2321098598,
+    "timezone": "+0800"
+  },
+  {
+    "adm4": "73.71.01.1001",
+    "desa": "Bontorannu",
+    "kecamatan": "Mariso",
+    "kotkab": "Kota Makassar",
+    "provinsi": "Sulawesi Selatan",
+    "lat": -5.1621812207,
+    "lon": 119.4042520292,
+    "timezone": "+0800"
+  },
+  {
+    "adm4": "12.71.01.1001",
+    "desa": "Pasar Baru",
+    "kecamatan": "Medan Kota",
+    "kotkab": "Kota Medan",
+    "provinsi": "Sumatera Utara",
+    "lat": 3.583985458,
+    "lon": 98.6847407431,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "16.71.01.1001",
+    "desa": "Tiga-puluh-lima Ilir",
+    "kecamatan": "Ilir Barat Dua",
+    "kotkab": "Kota Palembang",
+    "provinsi": "Sumatera Selatan",
+    "lat": -3.0080242465,
+    "lon": 104.7436045632,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "13.71.01.1001",
+    "desa": "Belakang Pondok",
+    "kecamatan": "Padang Selatan",
+    "kotkab": "Kota Padang",
+    "provinsi": "Sumatera Barat",
+    "lat": -0.9556523519,
+    "lon": 100.3624567146,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "64.71.01.1001",
+    "desa": "Manggar",
+    "kecamatan": "Balikpapan Timur",
+    "kotkab": "Kota Balikpapan",
+    "provinsi": "Kalimantan Timur",
+    "lat": -1.2144233439,
+    "lon": 116.9377421803,
+    "timezone": "+0800"
+  },
+  {
+    "adm4": "64.72.01.1001",
+    "desa": "Rawa Makmur",
+    "kecamatan": "Palaran",
+    "kotkab": "Kota Samarinda",
+    "provinsi": "Kalimantan Timur",
+    "lat": -0.5721937385,
+    "lon": 117.1774950645,
+    "timezone": "+0800"
+  },
+  {
+    "adm4": "63.71.01.1001",
+    "desa": "Mantuil",
+    "kecamatan": "Banjarmasin Selatan",
+    "kotkab": "Kota Banjarmasin",
+    "provinsi": "Kalimantan Selatan",
+    "lat": -3.3564628478,
+    "lon": 114.5468672299,
+    "timezone": "+0800"
+  },
+  {
+    "adm4": "71.71.01.1001",
+    "desa": "Molas",
+    "kecamatan": "Bunaken",
+    "kotkab": "Kota Manado",
+    "provinsi": "Sulawesi Utara",
+    "lat": 1.5443779179,
+    "lon": 124.8417447349,
+    "timezone": "+0800"
+  },
+  {
+    "adm4": "82.71.01.1001",
+    "desa": "Jambula",
+    "kecamatan": "Pulau Ternate",
+    "kotkab": "Kota Ternate",
+    "provinsi": "Maluku Utara",
+    "lat": 0.76141024,
+    "lon": 127.3196920287,
+    "timezone": "+0900"
+  },
+  {
+    "adm4": "91.71.01.1001",
+    "desa": "Gurabesi",
+    "kecamatan": "Jayapura Utara",
+    "kotkab": "Kota Jayapura",
+    "provinsi": "Papua",
+    "lat": -2.5264449691,
+    "lon": 140.6568889518,
+    "timezone": "+0900"
+  },
+  {
+    "adm4": "17.71.01.1001",
+    "desa": "Pagar Dewa",
+    "kecamatan": "Selebar",
+    "kotkab": "Kota Bengkulu",
+    "provinsi": "Bengkulu",
+    "lat": -3.8406661585,
+    "lon": 102.3207331977,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "36.71.01.1001",
+    "desa": "Sukarasa",
+    "kecamatan": "Tangerang",
+    "kotkab": "Kota Tangerang",
+    "provinsi": "Banten",
+    "lat": -6.1728843824,
+    "lon": 106.6318514866,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "36.72.01.1001",
+    "desa": "Cibeber",
+    "kecamatan": "Cibeber",
+    "kotkab": "Kota Cilegon",
+    "provinsi": "Banten",
+    "lat": -6.0331103125,
+    "lon": 106.0696595656,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "36.73.01.1001",
+    "desa": "Serang",
+    "kecamatan": "Serang",
+    "kotkab": "Kota Serang",
+    "provinsi": "Banten",
+    "lat": -6.1279709386,
+    "lon": 106.1468474876,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "36.74.01.1001",
+    "desa": "Ciater",
+    "kecamatan": "Serpong",
+    "kotkab": "Kota Tangerang Selatan",
+    "provinsi": "Banten",
+    "lat": -6.3223089121,
+    "lon": 106.6942904254,
+    "timezone": "+0700"
+  },
+  {
+    "adm4": "53.71.01.1001",
+    "desa": "Namosain",
+    "kecamatan": "Alak",
+    "kotkab": "Kota Kupang",
+    "provinsi": "Nusa Tenggara Timur",
+    "lat": -10.175663957,
+    "lon": 123.5533510525,
+    "timezone": "+0800"
+  },
+  {
+    "adm4": "75.71.01.1001",
+    "desa": "Dembe I",
+    "kecamatan": "Kota Barat",
+    "kotkab": "Kota Gorontalo",
+    "provinsi": "Gorontalo",
+    "lat": 0.5469105231,
+    "lon": 123.0050940122,
+    "timezone": "+0800"
+  },
+  {
+    "adm4": "62.71.01.1001",
+    "desa": "Pahandut",
+    "kecamatan": "Pahandut",
+    "kotkab": "Kota Palangkaraya",
+    "provinsi": "Kalimantan Tengah",
+    "lat": -2.1997496076,
+    "lon": 113.9503267764,
+    "timezone": "+0700"
+  }
+]
